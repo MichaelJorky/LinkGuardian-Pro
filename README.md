@@ -64,19 +64,6 @@ Untuk memudahkan analisis dan dokumentasi.
 
 ---
 
-## 🖥️ **Teknologi yang Digunakan**
-
-* Delphi (VCL)
-* `TThread`
-* `TNetHTTPClient`
-* `TIdHTTP + SSL`
-* Multi-threading dengan critical section
-* JSON Parsing (GeoIP API)
-* Regular Expressions
-* ListView & Memo logger
-
----
-
 ## 📁 **Struktur Output**
 
 ### **CSV Output (Success Only)**
