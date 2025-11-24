@@ -2,7 +2,7 @@
 
 **Advanced URL & Proxy Diagnostic Scanner — Multi-Threaded, Fast, and Geo-Aware**
 
-LinkGuardian Pro adalah aplikasi Windows berbasis Delphi yang dirancang untuk melakukan analisis URL/IP secara cepat dan mendalam, baik menggunakan direct connection maupun HTTP proxy.
+LinkGuardian Pro adalah aplikasi Windows yang dirancang untuk melakukan analisis URL/IP secara cepat dan mendalam, baik menggunakan direct connection maupun HTTP proxy.
 Dibangun dengan arsitektur multi-thread yang ringan, aplikasi ini mampu melakukan scanning skala besar tanpa membebani CPU dan menjaga UI tetap responsif.
 
 ---
